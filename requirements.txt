@@ -1,1 +1,2 @@
 torch
+git+https://github.com/salesforce/pytorch-qrnn
