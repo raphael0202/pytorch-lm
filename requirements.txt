@@ -1,4 +1,4 @@
 torch
 cupy
 pynvrtc
-git+https://github.com/salesforce/pytorch-qrnn
+git+https://github.com:ahug/pytorch-qrnn
