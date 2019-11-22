@@ -1,2 +1,4 @@
 torch
+cupy
+pynvrtc
 git+https://github.com/salesforce/pytorch-qrnn
